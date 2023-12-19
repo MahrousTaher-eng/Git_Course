@@ -1,4 +1,4 @@
 # Git_Course
-From ** Elzero ** Web School
+From Elzero Web School
 
-## Course_Notes
+## Project_Notes
